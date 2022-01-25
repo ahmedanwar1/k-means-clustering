@@ -1,4 +1,5 @@
-# kmeans
+# k-means clustering
+k-means clustering using NodeJs
 
 ### How to start:
 ```
